@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @livswebdesign
-- 👀 I’m interested in graphic design and other pretty things
-- 🌱 I’m currently learning ux design with google and northwest vista college
-- 💞️ I’m looking to collaborate on start-up projects or rebranding websites
+- 👀 I’m interested in startups, small businesses and brand development. 
+- 💞️ I’m looking to collaborate on start-up projects or rebranding websites.
 - 📫 How to reach me- email:victoriaoliviaamare@gmail.com
 
 <!---
